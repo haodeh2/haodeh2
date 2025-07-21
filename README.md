@@ -17,7 +17,7 @@ Please feel free to take a look
 I created a mosaic of an image of my choice using thousands of tiny different images sharing an overall meaning behind the piece. 
 
 This is the HD version, it allows you to zoom in and see all the tiny images that have been combined in order to create the larger mosaic.
-https://mosaic.tiiny.site
+https://1drv.ms/f/c/72d119c9b7864ff0/Eo2vqr-WbplNnjFUIcWRUnUB5CdylHJA-SfT1-pQg4GTfA?e=GYHIKl
 
 Here is the link to the notebook carying the instructions and the code to comeplete this project for my course
 https://1drv.ms/u/c/72d119c9b7864ff0/EfjlNiD49m1Dotfi82gGEn8BLeTqwM-EhD2TjEVMvAbCVw?e=OvNevH
