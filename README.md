@@ -17,7 +17,7 @@ Please feel free to take a look
 I created a mosaic of an image of my choice using thousands of tiny different images sharing an overall meaning behind the piece. 
 
 This is the HD version, it allows you to zoom in and see all the tiny images that have been combined in order to create the larger mosaic.
-https://1drv.ms/f/c/72d119c9b7864ff0/Eo2vqr-WbplNnjFUIcWRUnUB29MQy8DaJHGnhEE-l9KEcA?e=KzQtWz
+https://1drv.ms/i/c/72d119c9b7864ff0/EX1_iLrZk5VJrjzkahEitSQBf2q4YIlUoI5tL2fleBYzSg?e=dsa6Cb
 
 This is a smaller version, allowing it to load faster however you are unable to zoom in to the tiny images.
 https://1drv.ms/f/c/72d119c9b7864ff0/Eo2vqr-WbplNnjFUIcWRUnUB29MQy8DaJHGnhEE-l9KEcA?e=bhI1tj
