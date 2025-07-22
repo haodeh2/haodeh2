@@ -14,7 +14,7 @@ Please feel free to take a look
 
 #### Mosaic🖼️
 
-I created a mosaic of an image of my choice using thousands of tiny different images sharing an overall meaning behind the piece. 
+Using Python and I guid provided to me by my class, I created a mosaic of an image of my choice using thousands of tiny different images sharing an overall meaning behind the piece. 
 
 This is the HD version, it allows you to zoom in and see all the tiny images that have been combined in order to create the larger mosaic.
 https://1drv.ms/u/c/72d119c9b7864ff0/EQSDJWBAJv9Cv0W6MZIDWfgBIWOxKoy2iCzVa0oQJ4Ntpw?e=2Dakgs
@@ -23,4 +23,7 @@ Here is the link to the notebook carying the instructions and the code to comepl
 https://1drv.ms/u/c/72d119c9b7864ff0/EfjlNiD49m1Dotfi82gGEn8BLeTqwM-EhD2TjEVMvAbCVw?e=OvNevH
 
 
+#### Data Project representing the maryrs of Gaza 
 
+Using Python, I was able to analize and visualise a data set containing all the names, ages, and gender of the martys of Gaza from the Oct. 7th 2023 to Aug. 31st 2024. 
+https://1drv.ms/u/c/72d119c9b7864ff0/ES1yroxZF_NDs6AQotgIT3QBHw-qWSbdgR7FHHyvZgkjKQ?e=jOfnkw
