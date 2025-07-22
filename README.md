@@ -1,6 +1,4 @@
 ## Haneen Odeh
-![IMG_9575](https://github.com/user-attachments/assets/e38dae15-bbb9-407b-92c6-14abf4c01c98)
-
 ### Information Science | Data Science
 ### University of Illinois Urbana-Chamapaign
 
