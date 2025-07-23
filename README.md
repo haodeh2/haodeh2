@@ -9,6 +9,7 @@ My goal is to contribute to the storage, organization, and analysis of data acro
 
 ### Completed Projects
 Completed through an Intro to Data Science course at UIUC
+
 Please feel free to take a look
 
 #### Mosaic🖼️
@@ -22,7 +23,7 @@ Here is the link to the notebook carying the instructions and the code to comepl
 https://1drv.ms/u/c/72d119c9b7864ff0/EfjlNiD49m1Dotfi82gGEn8BLeTqwM-EhD2TjEVMvAbCVw?e=OvNevH
 
 
-#### Data Project representing the maryrs of Gaza 
+#### Data Project representing the martyrs of Gaza 
 
 Using Python, I was able to analize and visualise a data set containing all the names, ages, and gender of the martys of Gaza from the Oct. 7th 2023 to Aug. 31st 2024.
 
