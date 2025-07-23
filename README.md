@@ -1,5 +1,5 @@
 ## Haneen Odeh✨
-###📜Information Science | Data Science 
+### 📜Information Science | Data Science 
 ### 🎓University of Illinois Urbana-Chamapaign
 
 
@@ -7,7 +7,7 @@ I am an undergraduate student studying Information Science with a focus in Data 
 
 My goal is to contribute to the storage, organization, and analysis of data across medical institutions, such as pharmacies and hospitals, helping improve the efficiency and understanding of the information.
 
-### 🔬Completed Projects❇
+### 🔬Completed Projects
 Completed through an Intro to Data Science course at UIUC
 
 Please feel free to take a look
