@@ -23,7 +23,7 @@ Here is the link to the notebook carying the instructions and the code to comepl
 https://1drv.ms/u/c/72d119c9b7864ff0/EfjlNiD49m1Dotfi82gGEn8BLeTqwM-EhD2TjEVMvAbCVw?e=OvNevH
 
 
-#### Data Project representing the martyrs of Gaza 
+#### Data Project Representing the Martyrs of Gaza 
 
 Using Python, I was able to analize and visualise a data set containing all the names, ages, and gender of the martys of Gaza from the Oct. 7th 2023 to Aug. 31st 2024.
 
